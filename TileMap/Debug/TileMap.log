@@ -1,0 +1,10 @@
+﻿  TileMapMgr.cpp
+h:\-xx cpp projekts xx-\tilemap\tilemap\tilemapmgr.cpp(22): warning C4018: '<': signed/unsigned mismatch
+h:\-xx cpp projekts xx-\tilemap\tilemap\tilemapmgr.cpp(33): warning C4018: '<': signed/unsigned mismatch
+h:\-xx cpp projekts xx-\tilemap\tilemap\tilemapmgr.cpp(34): warning C4018: '<': signed/unsigned mismatch
+h:\-xx cpp projekts xx-\tilemap\tilemap\tilemapmgr.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\-xx cpp projekts xx-\tilemap\tilemap\tilemapmgr.cpp(48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\-xx cpp projekts xx-\tilemap\tilemap\tilemapmgr.cpp(71): warning C4018: '<': signed/unsigned mismatch
+h:\-xx cpp projekts xx-\tilemap\tilemap\tilemapmgr.cpp(72): warning C4018: '<': signed/unsigned mismatch
+  TileMap.vcxproj -> H:\-xX CPP PROJEKTS Xx-\TileMap\Debug\TileMap.exe
+  TileMap.vcxproj -> H:\-xX CPP PROJEKTS Xx-\TileMap\Debug\TileMap.pdb (Full PDB)
